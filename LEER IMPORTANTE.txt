@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------
 Para que los archivos enlazados funcionen tienen que estar en una carpeta 
 ----------------------------------------------------------------------------
-y para ir en el orden correcto se empieza por el archivo index
+El login en el archivo index
 ----------------------------------------------------------------------------
 Las tarjetas son los carnets de nosotros 
 ----------------------------------------------------------------------------
